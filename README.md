@@ -7,7 +7,9 @@ P1 – Entities, Attributes & Table Structures
 Attributes:
 
 theatre_id (Primary Key)
+
 name
+
 location
 
 SQL Query:
@@ -35,10 +37,15 @@ Example Rows:
 Attributes:
 
 movie_id (Primary Key)
+
 title
+
 language
+
 genre
+
 duration_minutes
+
 certificate_rating
 
 SQL Query:
@@ -70,9 +77,13 @@ Example Rows:
 Attributes:
 
 show_id (Primary Key)
+
 theatre_id (FK → Theatre)
+
 movie_id (FK → Movie)
+
 show_date
+
 show_time
 
 SQL Query:
