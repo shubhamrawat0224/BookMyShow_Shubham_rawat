@@ -1,4 +1,4 @@
-📘 Assignment: BookMyShow – Theatre Show Listing
+# **Assignment: BookMyShow – Theatre Show Listing**
 
 P1 – Entities, Attributes & Table Structures
 
