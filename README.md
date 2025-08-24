@@ -1,8 +1,8 @@
 # **Assignment: BookMyShow – Theatre Show Listing**
 
-P1 – Entities, Attributes & Table Structures
+# **P1 – Entities, Attributes & Table Structures**
 
-1. Theatre
+### 1. **Theatre**
    
 Attributes:
 
@@ -32,7 +32,7 @@ Example Rows:
 <img width="161" height="41" alt="image" src="https://github.com/user-attachments/assets/b234035b-08c2-470e-ae1e-6fe80c69245a" />
 
 
-2. Movie
+### 2. **Movie**
 
 Attributes:
 
@@ -72,7 +72,7 @@ Example Rows:
 <img width="391" height="53" alt="image" src="https://github.com/user-attachments/assets/d6de3d3e-f754-4b0d-8f0e-b55de150e103" />
 
 
-3. Show
+### 3. **Show**
    
 Attributes:
 
@@ -115,7 +115,7 @@ Example Rows:
 
 <img width="807" height="518" alt="Untitled" src="https://github.com/user-attachments/assets/36202255-5a4c-48d1-b08e-9961c7050bcc" />
 
-P2 – Query to List Shows at a Given Theatre on a Given Date
+# **P2 – Query to List Shows at a Given Theatre on a Given Date**
 
 SELECT 
     m.title AS Movie,
